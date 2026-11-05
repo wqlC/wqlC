@@ -1,84 +1,27 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="wqlC neon cyber banner">
   <defs>
-    <linearGradient id="bg-grad" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#070b14"/>
-      <stop offset="1" stop-color="#0b0e19"/>
+      <stop offset="1" stop-color="#12102a"/>
     </linearGradient>
-    <linearGradient id="neon-grad" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="neon" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22D3EE"/>
       <stop offset="0.5" stop-color="#A855F7"/>
       <stop offset="1" stop-color="#EC4899"/>
     </linearGradient>
-    <filter id="glow-strong" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="glow-soft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" stroke="#1a2133" stroke-width="1"/>
-    </pattern>
-    <mask id="fade-bottom">
-      <linearGradient id="fade-grad" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="white"/>
-        <stop offset="100%" stop-color="black"/>
-      </linearGradient>
-      <rect x="0" y="0" width="1200" height="320" fill="url(#fade-grad)"/>
-    </mask>
   </defs>
-
-  <!-- Background -->
-  <rect width="1200" height="320" fill="url(#bg-grad)"/>
-  <rect width="1200" height="320" fill="url(#grid)" opacity="0.25" mask="url(#fade-bottom)"/>
-
-  <!-- Neon stripes -->
-  <g opacity="0.55" filter="url(#glow-soft)">
-    <path d="M-50 70 L1250 20" stroke="url(#neon-grad)" stroke-width="3"/>
-    <path d="M-50 140 L1250 90" stroke="url(#neon-grad)" stroke-width="3"/>
-    <path d="M-50 210 L1250 160" stroke="url(#neon-grad)" stroke-width="3"/>
-    <path d="M-50 280 L1250 230" stroke="url(#neon-grad)" stroke-width="3"/>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <g opacity="0.35" stroke="url(#neon)" stroke-width="2" fill="none">
+    <path d="M-40 60 L1240 10"/>
+    <path d="M-40 120 L1240 70"/>
+    <path d="M-40 180 L1240 130"/>
+    <path d="M-40 240 L1240 190"/>
+    <path d="M-40 300 L1240 250"/>
   </g>
-
-  <!-- Title -->
-  <g transform="translate(0, 0)">
-    <text x="50%" y="150" text-anchor="middle"
-          font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
-          font-size="96" font-weight="800" letter-spacing="4"
-          fill="#0ff" opacity="0.1">wqlC</text>
-    <text x="50%" y="150" text-anchor="middle"
-          font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
-          font-size="96" font-weight="800" letter-spacing="4"
-          fill="url(#neon-grad)" filter="url(#glow-strong)">wqlC</text>
-  </g>
-
-  <!-- Tagline -->
-  <g transform="translate(0, 12)">
-    <text x="50%" y="205" text-anchor="middle"
-          font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif"
-          font-size="22" font-weight="600" fill="#9AE6FF" opacity="0.12">
-      ??? · Cloudflare & Games · ????
-    </text>
-    <text x="50%" y="205" text-anchor="middle"
-          font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif"
-          font-size="22" font-weight="600" fill="#C084FC" filter="url(#glow-soft)">
-      ??? · Cloudflare & Games · ????
-    </text>
-  </g>
-
-  <!-- Corner accents -->
-  <g opacity="0.7" filter="url(#glow-soft)">
-    <rect x="30" y="30" width="90" height="3" fill="#22D3EE"/>
-    <rect x="30" y="30" width="3" height="90" fill="#A855F7"/>
-    <rect x="1140" y="260" width="30" height="3" fill="#EC4899"/>
-    <rect x="1167" y="233" width="3" height="30" fill="#22D3EE"/>
-  </g>
+  <text x="600" y="155" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="96" font-weight="800" letter-spacing="6" fill="url(#neon)">wqlC</text>
+  <text x="600" y="210" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="22" font-weight="600" fill="#C084FC">Builder Â· Cloudflare &amp; Games Â· Full-stack</text>
+  <rect x="28" y="28" width="88" height="3" fill="#22D3EE"/>
+  <rect x="28" y="28" width="3" height="88" fill="#A855F7"/>
+  <rect x="1084" y="289" width="88" height="3" fill="#EC4899"/>
+  <rect x="1169" y="204" width="3" height="88" fill="#22D3EE"/>
 </svg>
-

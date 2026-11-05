@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wqlC/wqlC/main/assets/neon-banner.svg" alt="wqlC — Neon cyber banner" />
+  <img src="https://raw.githubusercontent.com/wqlC/wqlC/main/assets/neon-banner.png" alt="wqlC — Neon cyber banner" width="100%" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/neon-divider.svg" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/wqlC/wqlC/main/assets/neon-divider.svg" width="100%" alt="divider" />
 </p>
 
 ### 统计 / Metrics
