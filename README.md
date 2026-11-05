@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/neon-banner.svg" alt="wqlC — Neon cyber banner" />
+  <img src="https://raw.githubusercontent.com/wqlC/wqlC/main/assets/neon-banner.svg" alt="wqlC — Neon cyber banner" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/neon-divider.svg" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/wqlC/wqlC/main/assets/neon-divider.svg" width="100%" alt="divider" />
 </p>
 
 ### 简介 / About
@@ -18,7 +18,7 @@
 - 技术即画笔，项目是霓虹色的像素点
 
 <p align="center">
-  <img src="./assets/neon-divider.svg" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/wqlC/wqlC/main/assets/neon-divider.svg" width="100%" alt="divider" />
 </p>
 
 ### 精选项目 / Featured
@@ -27,25 +27,25 @@
 
   <!-- row 1 -->
   <a href="https://github.com/wqlC/cloud-gram-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wqlC&repo=cloud-gram-store&theme=tokyonight&hide_border=true" alt="cloud-gram-store" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=wqlC&repo=cloud-gram-store&theme=tokyonight&hide_border=true" alt="cloud-gram-store" />
   </a>
   <a href="https://github.com/wqlC/git-pull-reminder-plugin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wqlC&repo=git-pull-reminder-plugin&theme=tokyonight&hide_border=true" alt="git-pull-reminder-plugin" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=wqlC&repo=git-pull-reminder-plugin&theme=tokyonight&hide_border=true" alt="git-pull-reminder-plugin" />
   </a>
   <br/>
 
   <!-- row 2 -->
   <a href="https://github.com/wqlC/emotion-recognize-pyqt5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wqlC&repo=emotion-recognize-pyqt5&theme=tokyonight&hide_border=true" alt="emotion-recognize-pyqt5" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=wqlC&repo=emotion-recognize-pyqt5&theme=tokyonight&hide_border=true" alt="emotion-recognize-pyqt5" />
   </a>
   <a href="https://github.com/wqlC/algorithm-Cpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wqlC&repo=algorithm-Cpp&theme=tokyonight&hide_border=true" alt="algorithm-Cpp" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=wqlC&repo=algorithm-Cpp&theme=tokyonight&hide_border=true" alt="algorithm-Cpp" />
   </a>
   <br/>
 
   <!-- row 3 -->
   <a href="https://github.com/wqlC/wqlC.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wqlC&repo=wqlC.github.io&theme=tokyonight&hide_border=true" alt="wqlC.github.io" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=wqlC&repo=wqlC.github.io&theme=tokyonight&hide_border=true" alt="wqlC.github.io" />
   </a>
 </div>
 
@@ -55,7 +55,7 @@
 > - recoil-minigame、timing-tap-minigame —— 微信/抖音小游戏原型（未开源）
 
 <p align="center">
-  <img src="./assets/neon-divider.svg" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/wqlC/wqlC/main/assets/neon-divider.svg" width="100%" alt="divider" />
 </p>
 
 ### 技术栈 / Tech Stack
@@ -76,14 +76,14 @@
 ### 统计 / Metrics
 
 <div align="center">
-  <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=wqlC&show_icons=true&count_private=true&theme=radical&hide_title=true" />
+  <img alt="GitHub Stats" height="160" src="https://github-stats-extended.vercel.app/api?username=wqlC&show_icons=true&count_private=true&theme=radical&hide_title=true" />
   <img alt="GitHub Streak" height="160" src="https://streak-stats.demolab.com?user=wqlC&theme=tokyonight&hide_border=true" />
   <br/>
-  <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wqlC&layout=compact&theme=radical&hide_border=true" />
+  <img alt="Top Languages" height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wqlC&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <p align="center">
-  <img src="./assets/neon-divider.svg" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/wqlC/wqlC/main/assets/neon-divider.svg" width="100%" alt="divider" />
 </p>
 
 ### 联系 / Links
